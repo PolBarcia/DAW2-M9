@@ -1,0 +1,45 @@
+/* ------------------------------------------------- */
+/* Main styles                                       */
+/* ------------------------------------------------- */
+
+
+* {
+    margin: auto;
+    max-width: 760px;
+    padding: 0%;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    margin: 0.5px;
+    padding: 0.5px;
+}
+
+.title {
+    flex: 4;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #bcbbbb;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+.title > h1 {
+    font-size: 2.5rem;
+    color: #bcbbbb;
+}
+
+.title > h3 {
+    font-size: small;
+}
+
+.item > h3 {
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    color: #747704;
+}
