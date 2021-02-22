@@ -1,0 +1,89 @@
+@media screen and ( max-width : 1000px ){
+    .container {
+        width: auto;
+        height: auto;
+    }
+    
+    .nav-container {
+        font-size: 1.5vw;
+    }
+
+    .nav-container>img {
+        width: 7%;
+        height: 7%;
+    }
+    .nav-container > ul {
+        margin-left: 0%;
+    }
+
+    li {
+        margin: 0.48%;
+        
+    }
+    /*#####################################################################*/
+
+    .main-text {
+        width: auto;
+        height: auto;
+        margin: auto;
+    }
+
+
+    .button {
+        width: auto;
+        height: auto;
+        
+    }
+
+    /*#####################################################################*/
+
+    .items-container {
+        display: inline;
+        align-items: center;
+       
+        
+    }
+
+    .item { 
+        margin-left: auto;
+        margin-right: auto;
+        height: 60%;
+        width: 50%;
+        margin-bottom: 3%;
+        
+    }
+
+    .icons {
+        width: 25%;
+    }
+
+
+    /*#####################################################################
+
+    .subText1 {
+        display: inline;
+        margin-left: auto;
+        margin-right: auto;
+     
+    }
+
+    #####################################################################*/
+
+    .bars >*> .barras {
+        
+        margin-bottom: 3%;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+
+    /*#####################################################################*/
+    .footer-list {
+        margin-top: 2vw;
+    }
+
+    .footer-list>li>a>img {
+        width: 1.5vw;
+        height: 1.5vw;
+    }
+}
